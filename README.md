@@ -70,6 +70,8 @@ To install the required packages, create a new environment and install the packa
         ```
 
 2. Run the following command in the app's directory to run your web app.
-    `python run.py`
+    ```bash
+    python run.py
+    ```
 
-3. Go to http://0.0.0.0:3001/
+4. Go to http://0.0.0.0:3001/
